@@ -211,7 +211,7 @@ footer {
     content: 'ATTEND THE TALE';
     font-style: normal;
     font-weight: bold;
-    color: red;
+    color: maroon;
 }
 
 @media (max-width: 600px) {
