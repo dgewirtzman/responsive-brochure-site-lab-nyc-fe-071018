@@ -29,12 +29,14 @@ header p {
     content: "Sweeney Todd";
     font-style: italic;
 }
-.sweeney-hover-1:hover:before {
-    content: 'THE DEMON BARBER OF FLEET STREET';
-    font-style: normal;
-    font-weight: bold;
-    color: maroon;
-}
+
+@media (max-width: 600px) {
+  .sweeney-hover-1:hover:before {
+      content: 'THE DEMON BARBER OF FLEET STREET';
+      font-style: normal;
+      font-weight: bold;
+      color: maroon;
+  }
 
 .nav-container {
   display: flex;
