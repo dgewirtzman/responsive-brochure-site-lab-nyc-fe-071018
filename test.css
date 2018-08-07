@@ -203,6 +203,8 @@ footer {
   box-shadow: 0px 5px 0px #c0392b;
 }
 
+
+
 @media (max-width: 600px) {
   .nav-container {
     flex-wrap: wrap;
