@@ -210,7 +210,7 @@ footer {
 .sweeney-hover-1:hover:before {
     content: 'THE DEMON BARBER OF FLEET STREET';
     font-style: normal;
-    font-weight: bold;
+    font-weight: 900;
     color: maroon;
 }
 
