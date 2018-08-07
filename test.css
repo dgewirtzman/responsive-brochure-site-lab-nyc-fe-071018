@@ -209,6 +209,7 @@ footer {
 }
 .sweeney-hover-1:hover:before {
     content: 'Attend the tale';
+    font-style: normal;
 }
 
 @media (max-width: 600px) {
