@@ -204,7 +204,7 @@ footer {
 }
 
 .sweeney-hover-1:before {
-    content: '<i>Sweeney Todd</i>';
+    content: 'Sweeney Todd';
 }
 .sweeney-hover-1:hover:before {
     content: 'Attend the tale';
