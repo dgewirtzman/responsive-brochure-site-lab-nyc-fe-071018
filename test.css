@@ -203,7 +203,12 @@ footer {
   box-shadow: 0px 5px 0px #c0392b;
 }
 
-
+.sweeney-hover-1:before {
+    content: '<i>Sweeney Todd</i>';
+}
+.sweeney-hover-1:hover:before {
+    content: 'Attend the tale';
+}
 
 @media (max-width: 600px) {
   .nav-container {
