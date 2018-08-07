@@ -30,13 +30,14 @@ header p {
     font-style: italic;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 601px) {
   .sweeney-hover-1:hover:before {
       content: 'THE DEMON BARBER OF FLEET STREET';
       font-style: normal;
       font-weight: bold;
       color: maroon;
   }
+}
 
 .nav-container {
   display: flex;
