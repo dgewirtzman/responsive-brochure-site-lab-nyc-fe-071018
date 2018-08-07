@@ -204,7 +204,7 @@ footer {
 }
 
 .sweeney-hover-1:before {
-    content: <i>"Sweeney Todd"</i>;
+    content: "Sweeney Todd";
     font-style: italic;
 }
 .sweeney-hover-1:hover:before {
