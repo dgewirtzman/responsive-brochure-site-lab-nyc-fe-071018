@@ -206,6 +206,10 @@ footer {
 .sweeney-hover-1:before {
     content: "Sweeney Todd";
     font-style: italic;
+    margin-bottom: .1em;
+    padding-bottom: .1em;
+    font-size: 3em;
+    line-height: 1em;
 }
 .sweeney-hover-1:hover:before {
     content: 'Attend the tale';
