@@ -209,8 +209,9 @@ footer {
 }
 .sweeney-hover-1:hover:before {
     content: 'ATTEND THE TALE';
+    font-style: normal;
     font-weight: bold;
-    color: maroon;
+    color: red;
 }
 
 @media (max-width: 600px) {
